@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BrainLess", "BrainLess.vcproj", "{6206D05B-B669-4E4D-8BA6-71C43522687C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		ReleaseWidDbg|Win32 = ReleaseWidDbg|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6206D05B-B669-4E4D-8BA6-71C43522687C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6206D05B-B669-4E4D-8BA6-71C43522687C}.Debug|Win32.Build.0 = Debug|Win32
+		{6206D05B-B669-4E4D-8BA6-71C43522687C}.Release|Win32.ActiveCfg = Release|Win32
+		{6206D05B-B669-4E4D-8BA6-71C43522687C}.Release|Win32.Build.0 = Release|Win32
+		{6206D05B-B669-4E4D-8BA6-71C43522687C}.ReleaseWidDbg|Win32.ActiveCfg = ReleaseWidDbg|Win32
+		{6206D05B-B669-4E4D-8BA6-71C43522687C}.ReleaseWidDbg|Win32.Build.0 = ReleaseWidDbg|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
